@@ -1,4 +1,6 @@
-import './App.css';
+import './style/App.scss';
+import './style/Color.scss';
+import './style/Reset.scss';
 
 function App() {
   return (
